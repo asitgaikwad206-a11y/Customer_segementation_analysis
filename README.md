@@ -69,7 +69,3 @@ Clustering Results:
 
 <img width="510" height="414" alt="image" src="https://github.com/user-attachments/assets/d53c0403-c404-44f8-bcea-2e6607f04e8b" />
 
-
-3:Account Balance vs Transaction Amount:
-
-<img width="522" height="410" alt="image" src="https://github.com/user-attachments/assets/b8135d99-60d5-4220-9625-1fa8ce3d0eb2" />
