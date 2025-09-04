@@ -171,10 +171,3 @@ plt.xlabel("Age")
 plt.ylabel("Account Balance (INR)")
 plt.show()
 
-# Plot CustAccountBalance vs TransactionAmount
-plt.figure(figsize=(8,6))
-sns.scatterplot(x=df['CustAccountBalance'], y=df['TransactionAmount (INR)'], hue=df['Cluster'], palette="Set3")
-plt.title("Clusters by Account Balance vs Transaction Amount")
-plt.xlabel("Account Balance (INR)")
-plt.ylabel("Transaction Amount (INR)")
-plt.show()
