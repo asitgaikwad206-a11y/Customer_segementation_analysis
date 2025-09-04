@@ -73,25 +73,3 @@ Clustering Results:
 3:Account Balance vs Transaction Amount:
 
 <img width="522" height="410" alt="image" src="https://github.com/user-attachments/assets/b8135d99-60d5-4220-9625-1fa8ce3d0eb2" />
-
-## 📌 Insights
-- **Cluster 0**: Average age ~38, medium account balance (~92K), average transactions (~1.3K) → **Middle-aged moderate spenders**  
-- **Cluster 1**: Average age ~37, slightly lower balance (~82K), higher transaction amount (~1.4K) → **Frequent shoppers**  
-- **Cluster 2**: Average age ~38, lowest balance (~81K), lowest transaction amount (~1.2K) → **Budget-conscious customers**  
-- **Cluster 3**: Outlier group with unusually high account balances (~456K) and high spending (~3.6K), but invalid/negative ages appeared before cleaning → **High-value segment (after fixing data errors)**  
-
-
-
-## 🎯 Predictions & Business Use-Cases
-- Target **Cluster 3 (High Value)** with **premium offers, loyalty rewards, exclusive services**.  
-- Engage **Cluster 1 (Frequent Shoppers)** with **discount coupons and membership programs**.  
-- For **Cluster 2 (Budget customers)** → Introduce **affordable bundles**.  
-- **Cluster 0 (Moderate spenders)** → Can be nurtured with **seasonal campaigns** to push them into higher spending segments.
-
-
-
-## ✅ Conclusion
-- Customer segmentation successfully identified **4 distinct groups**.  
-- Cleaning negative ages improved reliability of insights.  
-- This analysis helps businesses personalize strategies → **higher retention, increased sales, and better customer satisfaction**.  
-
